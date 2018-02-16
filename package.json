@@ -1,0 +1,14 @@
+{
+  "name": "ingenieria_software_test",
+  "version": "1.0.0",
+  "description": "Ejemplo de verificar y validar",
+  "main": "IngenieriaDeSoftware.js",
+  "scripts": {
+    "test": "mocha './ingenieriaDeSoftware.test.js'"
+  },
+  "author": "Juan C. Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.0.1"
+  }
+}
